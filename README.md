@@ -2,7 +2,7 @@
 
 ```bash
 brew tap RuochenLyu/pluck
-brew install --cask pluck   # the app
+brew install --cask pluck-app # the app
 brew install pluck          # the CLI
 ```
 

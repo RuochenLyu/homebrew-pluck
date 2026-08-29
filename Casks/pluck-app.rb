@@ -1,4 +1,4 @@
-cask "pluck" do
+cask "pluck-app" do
   version "1.0.2"
   sha256 "72d59afa0acd5f30f00afd4a203e7191f6a4e362f766b682e88a37fa55f0763e"
 

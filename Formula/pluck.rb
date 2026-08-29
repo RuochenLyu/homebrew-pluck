@@ -9,7 +9,8 @@ class Pluck < Formula
   depends_on :macos
 
   def install
-    bin.install "pluck", "Pluck_PluckCLI.bundle"
+    libexec.install "pluck", "Pluck_PluckCLI.bundle"
+    bin.install_symlink libexec/"pluck"
   end
 
   test do
