@@ -1,6 +1,6 @@
 cask "pluck" do
-  version "1.0.1"
-  sha256 "1c1fe5bd2505b48d07bfa980e4e44b343da5e50530a81ef6605ec14603a3ab41"
+  version "1.0.2"
+  sha256 "72d59afa0acd5f30f00afd4a203e7191f6a4e362f766b682e88a37fa55f0763e"
 
   url "https://github.com/RuochenLyu/pluck/releases/download/v#{version}/Pluck.zip"
   name "Pluck"
